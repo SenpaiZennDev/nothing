@@ -1,0 +1,44 @@
+p{
+    font-style: italic, Roboto;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.Search::placeholder{
+    font-size: 20px;
+    font-family: Arial;
+}
+.Search{
+    font-family: Arial;
+    font-size: 18px;
+}
+.body{
+    height: 100px;
+    padding-top:60px;
+   padding-left: 500px;
+   padding-right: 30px;
+    position: fixed;
+    background-color: rgb(244, 240, 240);
+}
+.video-time{
+    background-color: black;
+    color: white;
+    position: absolute;
+    bottom: 15px;
+    right: 28px;
+    font-family: Arial;
+    font-size: 12px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color:black;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-weight: 500px;
+}
+body{
+    width: 1000px;
+    height: 1000px;
+    font-family: Arial;
+}
